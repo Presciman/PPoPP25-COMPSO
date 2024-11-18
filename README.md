@@ -3,5 +3,5 @@ for Deep Neural Networks via Communication Reduction
 
 Implementation based on K-FAC pytorch (https://github.com/gpauloski/kfac-pytorch)
 
-## Artifact for SC'24 submission
+## Artifact for PPoPP'25 Paper
 
